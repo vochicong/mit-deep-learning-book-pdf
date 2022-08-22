@@ -1,5 +1,5 @@
-[![Download](https://img.shields.io/badge/download-bookmarked%20book-orange.svg)](https://github.com/janishar/mit-deep-learning-book-pdf/raw/master/complete-book-bookmarked-pdf/deeplearningbook.pdf)
-[![Download](https://img.shields.io/badge/download-book-brightgreen.svg)](https://github.com/janishar/mit-deep-learning-book-pdf/raw/master/complete-book-pdf/deeplearningbook.pdf)
+[![Download](https://img.shields.io/badge/download-bookmarked%20book-orange.svg)](https://github.com/janishar/mit-deep-learning-book-pdf/raw/master/complete-book-pdf/deeplearningbook.pdf)
+[![Download](https://img.shields.io/badge/download-book-brightgreen.svg)](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf)
 
 # MIT Deep Learning Book (beautiful and flawless PDF version)
 MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
@@ -24,7 +24,7 @@ This is the most comprehensive book available on the deep learning and available
 
 **This repository contains**
 1. The pdf version of the book which is available in html at http://www.deeplearningbook.org/
-2. The book is availabe in chapter wise PDFs as well as complete book in PDF.
+2. The book is available in chapter wise PDFs as well as complete book in PDF.
 
 **Some useful links for this learning:**
 1. [Exercises](http://www.deeplearningbook.org/exercises.html)
@@ -48,11 +48,11 @@ Citing the book
 
 To cite this book, please use this bibtex entry:
 
-@unpublished{Goodfellow-et-al-2016-Book,
+@book{Goodfellow-et-al-2016,
     title={Deep Learning},
-    author={Ian Goodfellow, Yoshua Bengio, and Aaron Courville},
-    note={Book in preparation for MIT Press},
-    url={http://www.deeplearningbook.org},
+    author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
+    publisher={MIT Press},
+    note={\url{http://www.deeplearningbook.org}},
     year={2016}
 }
 ```
